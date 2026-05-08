@@ -1,10 +1,10 @@
----
+-----
+
 ## name: web-search
 description: >
 Searches the web using DuckDuckGo and returns relevant results.
 Use this skill when the user asks to search online, look up current
 information, find facts, news, definitions, or any topic on the web.
----
 
 ## What this skill does
 
