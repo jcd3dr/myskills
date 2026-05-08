@@ -1,5 +1,3 @@
------
-
 ## name: web-search
 description: >
 Searches the web using DuckDuckGo and returns relevant results.
